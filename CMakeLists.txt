@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.4)
 project(rsa_library)
 
 #add_library(rsa_library rsa.h rsa.c test.c)
