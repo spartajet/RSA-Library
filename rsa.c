@@ -7,7 +7,8 @@
 
 
 char buffer[1024];
-const int MAX_DIGITS = 50;
+//const int MAX_DIGITS = 50;
+#define MAX_DIGITS 50
 int i,j = 0;
 
 struct public_key_class{
